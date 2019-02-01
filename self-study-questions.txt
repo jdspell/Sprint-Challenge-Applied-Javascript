@@ -1,0 +1,9 @@
+1. The DOM is the document object model. It is a tree data structure that the browser creates to represent the HTML of a website. The DOM consists of many nodes and the root node is the document node. Other noteworthy nodes include element, text and comment nodes.
+
+2. An event could be loosely described as any user interaction with the website. This can include clicking on elements, scrolling or even pressing a key.
+
+3. An event listener is something that can be added to elements of the DOM. The event listener will wait until a specific event has occurred then it activates a callback function to add some functionality to the element when the event happens.
+
+4. A node list is converted to an array when the extra functionality of an array is needed. While the node list is array like it does not have the more advanced array methods such as map, filter or reduce.
+
+5. A component is just HTML, CSS and Javascript blended with an idea or code design mentality that quite simply tries to build resuable pieces within a website. It is the concept of modularity and trying to create pieces within a website that do not depend on one another.
